@@ -1,4 +1,4 @@
-# Xenfero Admin Panel
+# XenFero Admin Panel
 
 Responsive Design
 
